@@ -1,0 +1,10 @@
+# Python >= 3.10
+# Para GPU, instalar primero torch desde https://pytorch.org/get-started/locally/
+# (la corrida original usó torch 2.14.1+cu130)
+torch>=2.2
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+pillow>=10.0
+jupyter
